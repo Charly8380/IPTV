@@ -32,7 +32,7 @@ COUNTRY_CODES = {
     "finland": "FI",
     "france": "FR",
     "georgia": "GE",
-    "germany": "DE",
+    "GR": "DE",
     "greece": "GR",
     "greenland": "GL",
     "hong_kong": "HK",
